@@ -3,6 +3,7 @@
  LIBRARIES: Wire, LiquidCrystal_I2C, BH1750, DHT, Servo
  Sensors: Temperature, Humidity, Light Intensity
  Battery storage: Requires one 18650 battery for power supply, 3.7V
+ Charging module USB
 */
 
 #include <Wire.h>
