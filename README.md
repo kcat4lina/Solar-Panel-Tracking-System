@@ -3,7 +3,6 @@ Double axis solar tracking system with battery storage. LCD displaying Solar int
 
 ![pic1](https://github.com/kcat4lina/Solar-Panel-Tracking-System/assets/107246202/381790f6-8bd6-4a8d-afa9-c2201a8996e5)
 ![pic2](https://github.com/kcat4lina/Solar-Panel-Tracking-System/assets/107246202/6047dbca-ee5e-4701-a21e-a04d096422ad)
-![pic3](https://github.com/kcat4lina/Solar-Panel-Tracking-System/assets/107246202/870b95d3-9a2b-42b3-a58a-44b3db5dd8c2)
 
 Video:
 https://github.com/kcat4lina/Solar-Panel-Tracking-System/assets/107246202/87522071-4312-4f24-aef4-dd8e47a7cefd
