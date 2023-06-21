@@ -1,5 +1,5 @@
 # Solar-Panel-Tracking-System - ARDUINO uno - C language
-Double axis solar tracking system with battery storage. LCD displaying Solar intensity, Temperature, Humidity. Additional Buzzer sensors and 4 Photoresistors.
+Double axis solar tracking system with battery storage. LCD displaying Solar intensity, Temperature, Humidity. Additional Buzzer sensors, Smartphone charging module USB and 4 Photoresistors.
 
 ![pic1](https://github.com/kcat4lina/Solar-Panel-Tracking-System/assets/107246202/381790f6-8bd6-4a8d-afa9-c2201a8996e5)
 ![pic2](https://github.com/kcat4lina/Solar-Panel-Tracking-System/assets/107246202/6047dbca-ee5e-4701-a21e-a04d096422ad)
