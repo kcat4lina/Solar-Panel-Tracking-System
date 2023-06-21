@@ -72,7 +72,7 @@ void loop() {
   read_dht11();   //read the value of temperature and humidity
   LcdShowValue(); //Lcd shows the values of light intensity, temperature and humidity
 
-  //erial monitor displays the resistance of the photoresistor and the angle of servo
+  //serial monitor displays the resistance of the photoresistor and the angle of servo
   /*Serial.print(" L ");
   Serial.print(L);
   Serial.print(" R ");
